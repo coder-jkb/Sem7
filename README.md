@@ -1,2 +1,2 @@
 # Sem7
-Notes and other material of B.Tech Semester 7
+B.Tech Semester 7 | Notes and other material
